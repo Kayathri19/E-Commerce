@@ -10,65 +10,65 @@ E-commerce businesses generate large volumes of transactional data every day. Wi
 
  🎯Objectives
 
-💠 Analyze overall sales and profit performance.
-💠 Identify top-selling and most profitable products.
-💠 Compare category-wise and region-wise sales.
-💠 Analyze monthly sales trends.
-💠 Perform statistical analysis on business data.
-💠 Create meaningful visualizations for decision-making.
+- Analyze overall sales and profit performance.
+- Identify top-selling and most profitable products.
+- Compare category-wise and region-wise sales.
+- Analyze monthly sales trends.
+- Perform statistical analysis on business data.
+- Create meaningful visualizations for decision-making.
 
  🛠️Technologies Used
 
-💠 Python
-💠 Pandas
-💠 NumPy
-💠 Matplotlib
-💠 Seaborn
-💠 Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
  📋Dataset Features
 
 The dataset contains information such as:
 
-💠 Order Date
-💠 Product Name
-💠 Category
-💠 Region
-💠 Quantity
-💠 Sales
-💠 Profit
+- Order Date
+- Product Name
+- Category
+- Region
+- Quantity
+- Sales
+- Profit
 
  📖Project Workflow
 
 1. Data Preprocessing
 
-💠 Loaded CSV dataset
-💠 Checked missing values
-💠 Removed duplicate records
-💠 Converted date columns to datetime format
+- Loaded CSV dataset
+- Checked missing values
+- Removed duplicate records
+- Converted date columns to datetime format
 
 2. Feature Engineering
 
-💠 Created Month columns
-💠 Prepared data for trend analysis
+- Created Month columns
+- Prepared data for trend analysis
 
 3. Exploratory Data Analysis (EDA)
 
-💠 Total Sales Analysis
-💠 Total Profit Analysis
-💠 Product Performance Analysis
-💠 Category-wise Analysis
-💠 Region-wise Analysis
-💠 Monthly Trend Analysis
+- Total Sales Analysis
+- Total Profit Analysis
+- Product Performance Analysis
+- Category-wise Analysis
+- Region-wise Analysis
+- Monthly Trend Analysis
 
 4. Data Visualization
 
-💠 Bar Charts
-💠 Pie Charts
-💠 Line Charts
-💠 Histograms
-💠 Scatter Plots
-💠 Correlation Heatmaps
+- Bar Charts
+- Pie Charts
+- Line Charts
+- Histograms
+- Scatter Plots
+- Correlation Heatmaps
 
  🔍Key Analysis Performed
 
@@ -92,11 +92,11 @@ The dataset contains information such as:
 
  💡Sample Insights Generated
 
-💠 Identified products contributing the highest revenue.
-💠 Determined the most profitable product categories.
-💠 Compared sales performance across different regions.
-💠 Discovered monthly sales patterns and seasonal trends.
-💠 Evaluated the relationship between sales and profit.
+- Identified products contributing the highest revenue.
+- Determined the most profitable product categories.
+- Compared sales performance across different regions.
+- Discovered monthly sales patterns and seasonal trends.
+- Evaluated the relationship between sales and profit.
 
 📁 Project Structure
 
@@ -121,21 +121,21 @@ E-Commerce-Sales-Analysis/
 
  🧠Skills Demonstrated
 
-💠 Data Cleaning
-💠 Data Wrangling
-💠 Exploratory Data Analysis (EDA)
-💠 Statistical Analysis
-💠 Data Visualization
-💠 Business Intelligence
-💠 Python Programming
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Business Intelligence
+- Python Programming
 
  🔮Future Improvements
 
-💠 Interactive dashboards using Power BI or Tableau
-💠 Sales forecasting using Machine Learning
-💠 Customer segmentation analysis
-💠 Profit prediction models
-💠 Real-time business analytics dashboard
+- Interactive dashboards using Power BI or Tableau
+- Sales forecasting using Machine Learning
+- Customer segmentation analysis
+- Profit prediction models
+- Real-time business analytics dashboard
 
  ✅Conclusion
 
