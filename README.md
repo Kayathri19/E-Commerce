@@ -147,5 +147,6 @@ This project demonstrates the practical application of Python for data analytics
  👨‍💻Author
 
 Kayathri
+
 Python for Data Analytics Internship Project
 Naan Mudhalvan Arts Internship Program 2026
