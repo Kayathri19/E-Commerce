@@ -100,7 +100,9 @@ The dataset contains information such as:
 
 📁 Project Structure
 
-text
+## 📁 Project Structure
+
+```text
 E-Commerce-Sales-Analysis/
 │
 ├── Dataset/
@@ -117,6 +119,7 @@ E-Commerce-Sales-Analysis/
 │
 ├── README.md
 └── requirements.txt
+```
 
 
  🧠Skills Demonstrated
